@@ -152,6 +152,11 @@ body {
   background-size: cover;
   background-position: center;
 }
+.javascript-image {
+  background-image: url(./media/Screenshot\ 2026-06-16\ 091517.png);
+  background-size: cover;
+  background-position: center;
+}
 .ux-image {
   background-image: url(./media/copert-ux.png);
   background-size: cover;
